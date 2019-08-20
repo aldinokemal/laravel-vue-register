@@ -17,11 +17,11 @@ requiremnt :
 1. open browser with `127.0.0.1:8000`
 
 ---
-#Picture
+# Picture
 ![Register Page](https://i.ibb.co/pLVkYD1/Screenshot-from-2019-08-20-20-26-09.png "Result")
 
 
 ---
-#Demo
+# Demo
 open here to [demo](http://laravel-vue-register.hydrogendioxide.net/)
 
