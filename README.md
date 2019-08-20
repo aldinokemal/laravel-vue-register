@@ -23,5 +23,5 @@ requiremnt :
 
 ---
 # Demo
-open here to [demo](http://laravel-vue-register.hydrogendioxide.net/)
+open here to [demo](https://laravel-vue-register.hydrogendioxide.net/)
 
